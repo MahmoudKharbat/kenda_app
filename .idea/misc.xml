@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/drawable/rating_empty.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/drawable/rating_full.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/drawable/rating_star.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/drawable/rounded.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/drawable/slightly_rounded.xml" value="0.152" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/activity_main.xml" value="0.22395833333333334" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/activity_menu.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/activity_registration.xml" value="0.115625" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/activity_selected_action.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/activity_selected_category.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/cart_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/category.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/category_row.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_animation.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_categories.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_chosen_category.xml" value="0.176" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_forgot_password.xml" value="0.4" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_home.xml" value="0.536" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_log_in.xml" value="0.32587064676616917" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_menu.xml" value="0.152" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_my_account.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_my_cart.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_product.xml" value="0.1935185185185185" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_rate_us.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/fragment_sign_up.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/layout/item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/kenda_FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

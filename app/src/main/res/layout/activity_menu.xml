@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:gravity="center_horizontal"
+    tools:context=".MenuActivity">
+
+    <LinearLayout
+        android:id="@+id/my_account_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:paddingLeft="60dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/my_account_img"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/my_account"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/my_account_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/my_account"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAllCaps="false"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/shop_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:paddingLeft="60dp"
+        android:gravity="center_vertical"
+        android:layout_below="@+id/my_account_layout">
+
+        <ImageView
+            android:id="@+id/shop_img"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/shop"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/shop_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/shop"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAllCaps="false"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/my_cart_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/shop_layout"
+        android:layout_marginTop="70dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="60dp">
+
+        <ImageView
+            android:id="@+id/my_cart_img"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/shopping_cart" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/my_cart_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/my_cart"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rate_us_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/my_cart_layout"
+        android:layout_marginTop="70dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="60dp">
+
+        <ImageView
+            android:id="@+id/rate_us_img"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/rate_us" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/rate_us_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/rate_us"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>
