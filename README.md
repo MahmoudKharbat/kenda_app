@@ -43,6 +43,11 @@ Features in the app:
 
 
 
+## Account Page
+<img src = "Illustration_Images/Screenshot%20(50).png" width = "250px" />
+
+
+
 ## Categories Page
 <img src = "Illustration_Images/page5.jpg" width = "250px" />
 
