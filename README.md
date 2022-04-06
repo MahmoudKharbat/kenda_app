@@ -20,3 +20,47 @@ Features in the app:
 
 ## Home Screen
 <img src = "Illustration_Images/page1.jpg" width = "250px" />
+
+
+
+## Home Screen
+<img src = "Illustration_Images/page2.jpg" width = "250px" />
+
+
+
+## Home Screen
+<img src = "Illustration_Images/page3.jpg" width = "250px" />
+
+
+
+## Home Screen
+<img src = "Illustration_Images/page4.jpg" width = "250px" />
+
+
+
+## Home Screen
+<img src = "Illustration_Images/page5.jpg" width = "250px" />
+
+
+
+## Home Screen
+<img src = "Illustration_Images/page6.jpg" width = "250px" />
+
+
+
+## Home Screen
+<img src = "Illustration_Images/page7.jpg" width = "250px" />
+
+
+
+## Home Screen
+<img src = "Illustration_Images/page8.jpg" width = "250px" />
+
+
+## Home Screen
+<img src = "Illustration_Images/page9.jpg" width = "250px" />
+
+
+## Home Screen
+<img src = "Illustration_Images/page10.jpg" width = "250px" />
+
