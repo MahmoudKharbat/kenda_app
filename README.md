@@ -33,34 +33,31 @@ Features in the app:
 
 
 
-## Home Screen
+## Menu Page
 <img src = "Illustration_Images/page4.jpg" width = "250px" />
 
 
 
-## Home Screen
+## Categories Page
 <img src = "Illustration_Images/page5.jpg" width = "250px" />
 
 
 
-## Home Screen
+## Category page
 <img src = "Illustration_Images/page6.jpg" width = "250px" />
 
 
 
-## Home Screen
+## Product Page
 <img src = "Illustration_Images/page7.jpg" width = "250px" />
 
 
 
-## Home Screen
-<img src = "Illustration_Images/page8.jpg" width = "250px" />
+## Shopping Cart Page
+<img src = "Illustration_Images/page10.jpg" width = "250px" />
 
 
-## Home Screen
+## Rating Page
 <img src = "Illustration_Images/page9.jpg" width = "250px" />
 
-
-## Home Screen
-<img src = "Illustration_Images/page10.jpg" width = "250px" />
 
