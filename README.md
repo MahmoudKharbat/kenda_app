@@ -13,7 +13,7 @@ Features in the app:
 
 3- Uploading profile picture.
 
-4- Using Firebase as Database.
+4- Using firebase as database.
 
 5- Sending the order to the seller within a click.
 
