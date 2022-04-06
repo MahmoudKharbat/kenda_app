@@ -18,17 +18,17 @@ Features in the app:
 5- Sending the order to the seller within a click.
 
 
-## Home Screen
+## Home Page
 <img src = "Illustration_Images/page1.jpg" width = "250px" />
 
 
 
-## Home Screen
+## Sign Up Page
 <img src = "Illustration_Images/page2.jpg" width = "250px" />
 
 
 
-## Home Screen
+## Reset Password Page
 <img src = "Illustration_Images/page3.jpg" width = "250px" />
 
 
