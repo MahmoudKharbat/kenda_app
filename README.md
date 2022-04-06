@@ -19,4 +19,4 @@ Features in the app:
 
 
 ## Home Screen
-<img src = "" />
+<img src = "Illustration_Images/page1.jpg" />
