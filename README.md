@@ -19,4 +19,4 @@ Features in the app:
 
 
 ## Home Screen
-<img src = "Illustration_Images/page1.jpg" width = "300px" />
+<img src = "Illustration_Images/page1.jpg" width = "250px" />
