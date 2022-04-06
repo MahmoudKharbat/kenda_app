@@ -44,7 +44,7 @@ Features in the app:
 
 
 ## Account Page
-<img src = "Illustration_Images/Screenshot%20(50).png" width = "250px" />
+<img src = "Illustration_Images/page11.png" width = "250px" />
 
 
 
