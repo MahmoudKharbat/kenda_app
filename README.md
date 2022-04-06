@@ -33,6 +33,11 @@ Features in the app:
 
 
 
+## Animation Page
+<img src = "Illustration_Images/47336-online-shopping-search-product-concept-animation.gif" width = "250px" />
+
+
+
 ## Menu Page
 <img src = "Illustration_Images/page4.jpg" width = "250px" />
 
