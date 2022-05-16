@@ -21,7 +21,6 @@ Features in the app:
 ## Home Page
 <img src = "Illustration_Images/page1.jpg" width = "250px" /> 
 
-
 ## Sign Up Page
 <img src = "Illustration_Images/page2.jpg" width = "250px" />
 
