@@ -19,7 +19,7 @@ Features in the app:
 
 
 ## Home Page
-<img src = "Illustration_Images/page1.jpg" width = "250px" />  <img src = "Illustration_Images/page2.jpg" width = "250px" />
+<img src = "Illustration_Images/page1.jpg" width = "250px" />  <img src = "Illustration_Images/page2.jpg" width = "250px" style="margin:100;" />
 
 
 
