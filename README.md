@@ -19,10 +19,12 @@ Features in the app:
 
 
 ## Home Page
-<img src = "Illustration_Images/page1.jpg" width = "250px" />  <img src = "Illustration_Images/page2.jpg" width = "250px" style="margin-left:100px" />
+<img src = "Illustration_Images/page1.jpg" width = "250px" />  
 
 
 
+## Sign Up
+<img src = "Illustration_Images/page2.jpg" width = "250px" style="margin-left:100px" />
 
 
 
